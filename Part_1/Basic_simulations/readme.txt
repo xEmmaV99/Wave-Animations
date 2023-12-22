@@ -1,0 +1,1 @@
+first half of the title is the L(t) and second half is the initial condition. The initial speed is 0 in all cases. 
